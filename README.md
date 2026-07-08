@@ -1,22 +1,74 @@
-# mine-bazzar
-Open source electron, windows, android app.
+# 🛡️ Captcha Verification
 
-license:
+A modern and lightweight CAPTCHA verification page built with pure **HTML, CSS, and JavaScript**.
 
-THIS APP IS BY UNIX MINECRAFT DEVELOPERS TEAM.
-COPYRIGHT FOR DEVELOPERS TO USE OUR ELECTRON OPEN SOURCE FILE.
+Designed with a clean Glassmorphism interface, Dark Mode support, and a simple math challenge to prevent automated access.
 
-BUT NO COPY OF THE SITE IS RIGHTED FOR DEVELOPERS AND ALL UNIX USERS.
+---
 
-THIS APP IS A MINECRAFT MALL TO GET FREE MAPS, MOD, MODPACK, DATAPACK, PLUGINS AND MORE...
+## ✨ Features
 
-THE HEAD OF UNIX OFFICE: ILIA SHARIFI
+- 🎨 Modern Glassmorphism UI
+- 🌙 Automatic Dark & Light Mode
+- ⚡ Pure HTML, CSS & JavaScript
+- 🧮 Random Math CAPTCHA
+- 🔒 Simple bot protection
+- 📱 Responsive Design
+- 🚀 Fast loading
+- 💻 No dependencies required
 
-WE HAVE OPEN SOURCE RESOURCE PACK FOR DEVELOPERS AN USERS THAT ALL RIGHTS COPYRIGHT IN 2025-2026.
+---
 
-IF THIS LISENCE VERSION IS OLD AND NOW IS MORE THAN 2025-2026, YOU MUST NOT USE RESOURCE PACK DOWNLOAD THE NEW APP VERSION OF "MINE BAZZAR" TO SEE THE DATE IS VERIFYED.
+## 📸 Preview
 
-ALL THANKS TO UNIXMAX TEAM, ILIA SHARIFI, AMIRALI NASERIE, AMIR MOROVATI, CAFEE BAZZAR, UNIX DEVELOPERS TEAM.
+<img width="900" alt="Preview" src="pic/preview.png">
 
+---
 
-VERSION DATE VERIFYED TO: 2025-2026
+## ⚙️ How It Works
+
+1. A random math question is generated.
+2. The user enters the answer.
+3. If the answer is correct:
+   - Verification succeeds.
+   - The user is redirected to the next page.
+4. Otherwise:
+   - An error message is displayed.
+
+---
+
+## 🛠️ Built With
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+---
+
+## 🎯 Future Ideas
+
+- Google reCAPTCHA Support
+- Image CAPTCHA
+- Audio CAPTCHA
+- Multiple Difficulty Levels
+- Animation Improvements
+- Accessibility Enhancements
+- Custom Themes
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
+
+It helps the project grow.
+
+---
+
+Made with ❤️ by **Ilia Sharifi**
