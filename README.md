@@ -19,12 +19,6 @@ Designed with a clean Glassmorphism interface, Dark Mode support, and a simple m
 
 ---
 
-## 📸 Preview
-
-<img width="900" alt="Preview" src="pic/preview.png">
-
----
-
 ## ⚙️ How It Works
 
 1. A random math question is generated.
