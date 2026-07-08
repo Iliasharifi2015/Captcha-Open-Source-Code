@@ -53,7 +53,7 @@ Designed with a clean Glassmorphism interface, Dark Mode support, and a simple m
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache-2.0 License.
 
 ---
 
