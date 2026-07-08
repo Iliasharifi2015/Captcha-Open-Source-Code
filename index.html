@@ -15,7 +15,6 @@
     <meta name="robots" content="all">
     <style>
 
-        /* حالت دارک */
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #333333;
@@ -24,7 +23,6 @@
 }
         }
 
-/* حالت روشن */
 @media (prefers-color-scheme: light) {
   body {
     background-color: white;
@@ -69,7 +67,7 @@
 <body>
 
 <div class="box">
-    <h2>MINEBZ CAPTCHA</h2>
+    <h2>CAPTCHA</h2>
     <p id="question"></p>
     <input type="number" id="answer" placeholder="awnser">
     <button onclick="verify()">Verify</button>
@@ -88,9 +86,9 @@
         let user = document.getElementById("answer").value;
 
         if (Number(user) === correct) {
-            // اگر کپچا درست بود، برو به صفحه مورد نظر
+
             window.location.href = "index.html"; 
-            // یا میتونی بزاری: "readme.html"
+
         } else {
             document.getElementById("result").innerText =
                 "❌ Captcha is incorrect. Try again!";
